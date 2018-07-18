@@ -1,9 +1,6 @@
 # ✨  e2k-project ✨
 
-[![chat][chat-badge]][chat]
-[![Build Status][build-badge]][build]
-[![version][version-badge]][package]
-[![MIT License][license-badge]][LICENSE]
+
 
 
 
