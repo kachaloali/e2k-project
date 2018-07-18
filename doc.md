@@ -1,7 +1,3 @@
-# e2k-project
-
-# install xampp : https://www.apachefriends.org/fr/download.html
-
 Voilà la procédure pour installer le serveur xampp et inserer wordpress dedans
 
 1. Il faut le télécharger à l'adresse : https://www.apachefriends.org/fr/download.html.
