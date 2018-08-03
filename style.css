@@ -17,6 +17,18 @@
   text-align: justify;
   Font-Weight: Bold;
   opacity: 0.75;
-  
+}
+
+.entry-title{
+  text-justify: inter-word;
+  text-align: justify;
+  Font-Weight: Bold;
+}
+
+.services_cols_mn_icon{
+  max-width : 30em;
+  max-height: 30em;
+  min-width: 30em;
+  min-height: 30em;
   
 }
