@@ -1,0 +1,22 @@
+/*
+ Theme Name:   mpn2kchildtheme
+ Theme URI:    https://mpn-kiishinkassa.com
+ Description:  Description de mon thème enfant
+ Author:       Kachalo Ali
+ Template:     busiprof
+ Version:      1.0.0
+
+* Tags: one-column, two-columns, full-width-template, threaded-comments, right-sidebar, custom-menu, sticky-post, translation-ready, featured-images, blog, theme-options, portfolio, photography, entertainment, education, footer-widgets, e-commerce, news
+* License: GNU General Public License v3.0
+* License URI: http://www.gnu.org/licenses/gpl.html
+* Copyright (c) 2018 Kachalo. All rights reserved.
+*/
+
+.slide-caption{
+  text-justify: inter-word;
+  text-align: justify;
+  Font-Weight: Bold;
+  opacity: 0.75;
+  
+  
+}
